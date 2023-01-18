@@ -1,0 +1,15 @@
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.csproj.AssemblyReference.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.AssemblyInfoInputs.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.AssemblyInfo.cs
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.csproj.CoreCompileInputs.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/bin/Debug/net6.0/task29
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/bin/Debug/net6.0/task29.deps.json
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/bin/Debug/net6.0/task29.runtimeconfig.json
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/bin/Debug/net6.0/task29.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/bin/Debug/net6.0/task29.pdb
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/refint/task29.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.pdb
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/task29.genruntimeconfig.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task29/obj/Debug/net6.0/ref/task29.dll
