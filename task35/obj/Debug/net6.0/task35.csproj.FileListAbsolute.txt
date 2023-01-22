@@ -1,0 +1,15 @@
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.csproj.AssemblyReference.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.AssemblyInfoInputs.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.AssemblyInfo.cs
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.csproj.CoreCompileInputs.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/bin/Debug/net6.0/task35
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/bin/Debug/net6.0/task35.deps.json
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/bin/Debug/net6.0/task35.runtimeconfig.json
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/bin/Debug/net6.0/task35.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/bin/Debug/net6.0/task35.pdb
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/refint/task35.dll
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.pdb
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/task35.genruntimeconfig.cache
+/Users/uliaivanova/Desktop/Seminar_code_1/task35/obj/Debug/net6.0/ref/task35.dll
