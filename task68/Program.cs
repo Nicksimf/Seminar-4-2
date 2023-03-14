@@ -20,3 +20,4 @@ int Akkerman(int m, int n)
 }
 
 // Console.WriteLine("Введите два положительных числа: M и N.")
+// int m = InputInt("Введите M: ");
