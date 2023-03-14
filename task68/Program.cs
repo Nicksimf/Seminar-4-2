@@ -18,3 +18,5 @@ int Akkerman(int m, int n)
     else
         return Akkerman(m - 1, Akkerman(m, n - 1));
 }
+
+// Console.WriteLine("Введите два положительных числа: M и N.")
